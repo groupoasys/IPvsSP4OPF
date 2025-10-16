@@ -16,7 +16,7 @@ The following test systems are included in this repository:
 
 * **Ignacio Repiso López** ([irepiso@uma.es](mailto:irepiso@uma.es)) - [GitHub: IgnacioRepiso](https://github.com/IgnacioRepiso)  
 * **Salvador Pineda** ([spineda@uma.es](mailto:spineda@uma.es)) - [GitHub: salvapineda](https://salvapineda.github.io/)  
-* **Juan Miguel Morales** ([jmmorales@uma.es](mailto:jmmorales@uma.es)) - [GitHub: juanmi82mg](https://juanmi82mg.github.io/)
+* **Juan Miguel Morales** ([jmmorales@uma.es](mailto:juan.morales@uma.es)) - [GitHub: juanmi82mg](https://juanmi82mg.github.io/)
 
 ## Funding
 
