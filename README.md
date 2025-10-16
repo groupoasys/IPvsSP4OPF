@@ -1,72 +1,47 @@
-# {{ Repository_Name }}
+# {{ Interior-Point vs. Spatial Branching Approaches for Solving the AC Optimal Power Flow Problem }}
 
-The aim of this repository is to provide details of the data sets and code used in the related research titled *{{ Research_Title }}*.
+The aim of this repository is to provide details of the test systems employed and the approaches applied in the related research titled *Interior-Point vs. Spatial Branching Approaches for Solving the AC Optimal Power Flow Problem*.
 
 ## Data Description
 
-The following files are included in this repository:
-* `{{ File_1_Name }}`: {{ File_1_Description }}
-* `{{ File_2_Name }}`: {{ File_2_Description }}
+The following test systems are included in this repository:
+* `case14`, `tuned14`: IEEE 14-bus test systems (original and tuned versions)
+* `case39`, `tuned39`: IEEE 39-bus test systems (original and tuned versions)
+* `case57`, `tuned57`: IEEE 57-bus test systems (original and tuned versions)
+* `case118`, `tuned118`: IEEE 118-bus test systems (original and tuned versions)
 
-## References
-
-[1] {{ Reference_1_Details }}
+*Tuned variants incorporate modifications from Narimani et al. (2018) (14- and 57-bus) and Bukhsh et al. (2013) (39- and 118-bus) to enhance the presence of local minima.*
 
 ## Developed by
 
-* {{ Developer_1_Name }} ([{{ Developer_1_Email }}](mailto:{{ Developer_1_Email }})) - [GitHub: {{ Developer_1_GitHub }}](https://github.com/{{ Developer_1_GitHub }})  
-* {{ Developer_2_Name }} ([{{ Developer_2_Email }}](mailto:{{ Developer_2_Email }})) - [GitHub: {{ Developer_2_GitHub }}](https://github.com/{{ Developer_2_GitHub }})  
-* {{ Developer_3_Name }} ([{{ Developer_3_Email }}](mailto:{{ Developer_3_Email }})) - [GitHub: {{ Developer_3_GitHub }}](https://github.com/{{ Developer_3_GitHub }})
+* **Ignacio Repiso López** ([irepiso@uma.es](mailto:irepiso@uma.es)) - [GitHub: IgnacioRepiso](https://github.com/IgnacioRepiso)  
+* **Salvador Pineda** ([spineda@uma.es](mailto:spineda@uma.es)) - [GitHub: salvapineda](https://salvapineda.github.io/)  
+* **Juan Miguel Morales** ([jmmorales@uma.es](mailto:jmmorales@uma.es)) - [GitHub: juanmi82mg](https://juanmi82mg.github.io/)
 
 ## Funding
 
-This work was supported by the following projects:  
-* {{ Funding_Project_1_Details }}  
-* {{ Funding_Project_2_Details }}  
-* {{ Funding_Project_3_Details }}
+This work was supported by the Spanish Ministry of Science and Innovation (AEI/10.13039/501100011033) through project PID2023-148291NB-I00, and by the same institution through the PhD training program (fellowship PRE2023-002227) supporting I. Repiso.
 
-## How to cite the repo and the paper?
+## Citation and reference
 
-If you want to cite the related paper or this repository, please use the following bib entries:
+If this work is useful for your research, please remember to cite the following paper:
 
-* Article:
-```
-@article{{ {{ Article_Citation_Key }},
-title = {{ {{ Article_Title }} }},
-journal = {{ {{ Journal_Name }} }},
-volume = {{ {{ Volume }} }},
-pages = {{ {{ Pages }} }},
-year = {{ {{ Year }} }},
-author = {{ {{ Authors }} }}
+```bibtex
+@article{irepisoipvssbcacpof,
+  title   = {Interior-Point vs. Spatial Branching Approaches for Solving the AC Optimal Power Flow Problem},
+  author  = {Repiso, Ignacio and Pineda, Salvador and Morales, Juan Miguel},
+  journal = {Electric Power Systems Research},
+  year    = {2025},
+  publisher = {Elsevier},
+  note    = {Presented at the 24th Power Systems Computation Conference (Limassol, Cyprus)}
 }
-```
-* Repository:
-```
-@misc{{ {{ Repository_Citation_Key }},
-author={{ {{ Repository_Author }} }},
-year={{ {{ Repository_Year }} }},
-title = {{ {{ Repository_Title }} }},
-howpublished = {{\url{{ {{ Repository_URL }} }} }}
-}
-```
 
-## Do you want to contribute?
+## Contributions
 
-Please, do it. Any feedback is welcome, so feel free to ask or comment anything you want via a Pull Request in this repo.  
-If you need extra help, you can contact us.
+Comments, suggestions, or corrections are welcome.  
+Feel free to open an issue or contact the authors if you have any feedback about this work.
 
 ## License
 
-Licensed under the GNU General Public License, Version 3 (the "License");  
-you may not use this file except in compliance with the License.  
-You may obtain a copy of the License at:
-
-   http://www.gnu.org/licenses/gpl-3.0.en.html
-
-Unless required by applicable law or agreed to in writing, software  
-distributed under the License is distributed on an "AS IS" BASIS,  
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  
-See the License for the License governing permissions and  
-limitations under the License.
-
-
+This project is licensed under the GNU General Public License v3.0 (GPLv3).  
+You may obtain a copy of the License at: <http://www.gnu.org/licenses/gpl-3.0.en.html>
