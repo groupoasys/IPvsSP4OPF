@@ -22,7 +22,7 @@ The following test systems in MATPOWER format are included in this repository:
 
 I. Repiso (irepiso@uma.es) – [GitHub: IgnacioRepiso](https://github.com/IgnacioRepiso)  
 S. Pineda (spineda@uma.es) – [GitHub: salvapineda](https://salvapineda.github.io/)  
-J. M. Morales (jmmorales@uma.es) – [GitHub: juanmi82mg](https://juanmi82mg.github.io/)
+J. M. Morales (juan.morales@uma.es) – [GitHub: juanmi82mg](https://juanmi82mg.github.io/)
 
 ## Funding
 
