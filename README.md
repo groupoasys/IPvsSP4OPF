@@ -55,8 +55,7 @@ If this work contributes to your research, please consider citing:
 
 ## Do you want to contribute?
 
-Please, do it. Any feedback is welcome, so feel free to ask or comment anything you want via a Pull Request in this repo.  
-If you need extra help, you can contact us.
+Please, do it. Any feedback is welcome, so feel free to ask or comment anything you want via a Pull Request in this repo. If you need extra help, you can contact us.
 
 ## License
 
