@@ -42,6 +42,3 @@ If this work contributes to your research, please consider citing:
   publisher = {Elsevier},
   note    = {Presented at the 24th Power Systems Computation Conference (Limassol, Cyprus)}
 }
-
-
-
