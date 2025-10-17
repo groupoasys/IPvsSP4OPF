@@ -32,8 +32,8 @@ This work was supported by the Spanish Ministry of Science and Innovation (AEI/1
 
 If this work contributes to your research, please consider citing:
 
-**Article:**
-```bibtex
+* Article:
+```
 @article{irepisoipvssbcacpof,
   title   = {Interior-Point vs. Spatial Branching Approaches for Solving the AC Optimal Power Flow Problem},
   author  = {Repiso, Ignacio and Pineda, Salvador and Morales, Juan Miguel},
@@ -42,3 +42,14 @@ If this work contributes to your research, please consider citing:
   publisher = {Elsevier},
   note    = {Presented at the 24th Power Systems Computation Conference (Limassol, Cyprus)}
 }
+```
+* Repository:
+```
+@misc{IPvsSP4OPF,
+  author       = {I. Repiso and S. Pineda and J. M. Morales},
+  year         = {2025},
+  title        = {IPvsSP4OPF: Interior-Point vs. Spatial Branching Approaches for Solving the AC Optimal Power Flow Problem},
+  howpublished = {\url{https://github.com/groupoasys/IPvsSP4OPF}}
+}
+```
+
