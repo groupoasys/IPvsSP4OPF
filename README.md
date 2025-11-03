@@ -18,7 +18,7 @@ The following test systems in MATPOWER format are included in this repository:
 `case118.m`: IEEE 118-bus test system.  
 `tuned118.m`: Modified version of the 118-bus system based on Bukhsh et al. (2013) to create multiple feasible and near-optimal operating points.
 
-Additional demand profiles used in the experiments are available in this repository. These profiles contain multiple randomized load scenarios for each test system and were used to generate the different OPF instances solved in the study.
+Additional demand profiles used in the experiments are also available in this repository. These profiles contain multiple randomized load scenarios for each test system and were used to generate the different OPF instances solved in the study.
 
 ## Developed by
 
